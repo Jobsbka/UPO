@@ -17,7 +17,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone [your-repo-url]
+git clone https://github.com/Jobsbka/UPO
 cd ЕПО-теория/Код
 
 # Установить зависимости
