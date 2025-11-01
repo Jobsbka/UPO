@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Если вы используете эту работу, пожалуйста, процитируйте ее следующим образом:"
+title: "Единый Принцип Организации (ЕПО) - объединенная теория фундаментальных взаимодействий"
+authors:
+  - family-names: "Рогожников"
+    given-names: "Дмитрий"
+    affiliation: "Независимый исследователь"
+  - family-names: "DeepSeek"
+    given-names: "R1"
+    affiliation: "AI Research Assistant"
+version: 1.0
+date-released: 2025-11-01
+url: "https://github.com/Jobsbka/UPO"
