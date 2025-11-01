@@ -18,7 +18,7 @@
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/Jobsbka/UPO
-cd ЕПО-теория/Код
+cd upo/code
 
 # Установить зависимости
 pip install -r requirements.txt
